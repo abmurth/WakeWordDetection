@@ -1,0 +1,1 @@
+Created wake word detection model for the phrase "turn on". Built python script to collect and preprocess data using Librosa and trained a neural network using TensorFlow Keras. Model achieves 100% accuracy.
